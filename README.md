@@ -5,11 +5,11 @@
 [Описание](https://github.com/gasmg/cards-desc)
 
 * __GEEKMOBILE__ – маркетплейс мобильной электроники<br />
-[Демо](https://geekmobile-dev.herokuapp.com)<br />
+[Демо](https://geekmobile.vercel.app)<br />
 [Описание](https://github.com/gasmg/geekmobile-desc)
 
 * __FILMIK__ – приложение для ценителей кино<br />
-[Демо](https://filmik-dev.herokuapp.com)<br />
+[Демо](https://filmik.vercel.app)<br />
 [Описание](https://github.com/gasmg/filmik-desc)
 
 * __FACES__ – фотобанк лиц<br />
